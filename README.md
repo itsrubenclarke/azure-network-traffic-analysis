@@ -60,7 +60,7 @@ This will allow me to perform a basic network traffic inspection using WireShark
 
 - Go to [Portal.azure.com](https://portal.azure.com)
 - Search for "Virtual Machines" in the Azure search bar
-- Select the "windows-vm" you created earlier and copy it's Public IP address
+- Select the "windows-vm" you created earlier and copy its Public IP address
 
 - Launch your Remote Desktop Connection Application
     - Mac Users download <a href="https://apps.apple.com/us/app/windows-app/id1295203466?mt=12" target="_blank" rel="noopener noreferrer">Windows App</a> Formerly known as "Microsoft Remote Desktop"
