@@ -36,7 +36,7 @@ This will allow me to perform a basic network traffic inspection using WireShark
 
 - Microsoft Azure (Virtual Machines, Networking)
 - Windows App (Remote Desktop Protocol)
-- WireShark (Traffic Analysis)
+- Wireshark (Traffic Analysis)
 - PowerShell (Command-line Operations)
 
 <p>
