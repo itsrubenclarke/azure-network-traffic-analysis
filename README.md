@@ -66,7 +66,7 @@ This will allow me to perform a basic network traffic inspection using WireShark
     - Mac Users download <a href="https://apps.apple.com/us/app/windows-app/id1295203466?mt=12" target="_blank" rel="noopener noreferrer">Windows App</a> Formerly known as "Microsoft Remote Desktop"
     - Windows Users open and use Remote Desktop
 - Select "Add PC"
-- Choose "Add Credentials" from the drop down and enter the credentials you created earlier, noting to accept the security prompt and proceed
+- Choose "Add Credentials" from the drop-down and enter the credentials you created earlier, noting to accept the security prompt and proceed
 - You can now establish a remote connection to your virtual machine, by right-clicking the newly added device
   
 <img width="1156" alt="Add PC" src="https://github.com/user-attachments/assets/151f6ec9-b615-4ed0-a5d1-6223206b2808" />
