@@ -133,7 +133,7 @@ This will allow me to perform a basic network traffic inspection using WireShark
 <img width="1365" alt="Effective Firewall" src="https://github.com/user-attachments/assets/4fb5ca31-7a0b-4213-baab-385d260aec67" />
 
 
-- In your Windows Virtual Machine observe the Failing ping requests and timeout notices
+- In your Windows Virtual Machine, observe the Failing ping requests and timeout notices
 - Re-enable the ICMP traffic for the Network Security Group your Virtual Machine is using and notice the replies begin to resume
 - Stop the ping activities using "CTRL +C"
 
