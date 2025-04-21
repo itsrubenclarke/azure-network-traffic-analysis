@@ -8,7 +8,7 @@
 <h1>Azure: Network Traffic Analysis With WireShark</h1>
 <p> 
 This project is the second amongst a collection focused on implementing Azure and Active Directory.
-The goal is to create a basic lab that mirrors a real working network environment, providing me with hands-on learning and practical experience with Microsoft Azure, PowerShell and WireShark.
+The goal is to create a basic lab that mirrors a real working network environment, providing me with hands-on learning and practical experience with Microsoft Azure, PowerShell and Wireshark.
 In this project, I will establish a connection between two virtual machines using Windows and Linux in Microsoft Azure's Cloud environment. 
 This will allow me to perform a basic network traffic inspection using WireShark and implement some Network Security Group rules to block, re-enable and observe different traffic types.
 </p>
