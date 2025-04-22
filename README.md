@@ -5,7 +5,7 @@
 
 
 
-<h1>Azure: Network Traffic Analysis With WireShark</h1>
+<h1>Azure: Network Traffic Analysis With Wireshark </h1>
 <p> 
 This project is the second amongst a collection focused on implementing Azure and Active Directory.
 The goal is to create a basic lab that mirrors a real working network environment, providing me with hands-on learning and practical experience with Microsoft Azure, PowerShell and Wireshark.
