@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9a472be7-ffac-4e40-b675-605ba418d0c0" height="40%" width="60%" alt="Microsoft Azure Logo"/>
+<img src="https://github.com/user-attachments/assets/9a472be7-ffac-4e40-b675-605ba418d0c0" height="200%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
 
 
